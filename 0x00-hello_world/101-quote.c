@@ -1,5 +1,5 @@
 #include <unistd.h>
-#include <stdio.>
+#include <stdio.h>
 
 /**
  * main - This code prints a sentence and a date
